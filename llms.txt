@@ -1,0 +1,15 @@
+# Installatøren Oslo AS
+
+- Bransje: Elektrisk installasjonsarbeid
+- Sted: Oppegård
+- E-post: post@installatoren.as
+- Telefon: 400 02 122
+
+## Tjenester
+
+- Elektrisk installasjon: Nytt anlegg, nye kurser, stikkontakter, lys og annet elektrisk arbeid i bolig og næringsbygg.
+- Utbedring og feilsøking: Noe som ikke virker som det skal? Vi finner feilen og retter den.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
